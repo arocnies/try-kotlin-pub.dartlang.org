@@ -1,0 +1,39 @@
+<svg width="369" height="60" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient y2="0.523814" x2="0.738447" y1="1.465591" x1="0.26599" id="XMLID_3_">
+   <stop stop-color="#0095D5" offset="0.09677"/>
+   <stop stop-color="#238AD9" offset="0.3007"/>
+   <stop stop-color="#557BDE" offset="0.6211"/>
+   <stop stop-color="#7472E2" offset="0.8643"/>
+   <stop stop-color="#806EE3" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="-0.135538" x2="0.686824" y1="0.371049" x1="0.139841" id="SVGID_1_">
+   <stop stop-color="#0095D5" offset="0.1183"/>
+   <stop stop-color="#3C83DC" offset="0.4178"/>
+   <stop stop-color="#6D74E1" offset="0.6962"/>
+   <stop stop-color="#806EE3" offset="0.8333"/>
+  </linearGradient>
+  <linearGradient y2="-0.011157" x2="0.762192" y1="0.919397" x1="-0.168362" id="SVGID_2_">
+   <stop stop-color="#C757BC" offset="0.1075"/>
+   <stop stop-color="#D0609A" offset="0.2138"/>
+   <stop stop-color="#E1725C" offset="0.4254"/>
+   <stop stop-color="#EE7E2F" offset="0.6048"/>
+   <stop stop-color="#F58613" offset="0.743"/>
+   <stop stop-color="#F88909" offset="0.8232"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="62" width="371" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1">
+   <polygon fill="url(#XMLID_3_)" points="0,60 30.1,29.9 60,60  " id="XMLID_2_"/>
+   <polygon id="svg_2" fill="url(#SVGID_1_)" points="0,0 30.1,0 0,32.5  "/>
+   <polygon id="svg_3" fill="url(#SVGID_2_)" points="30.1,0 0,31.7 0,60 30.1,29.9 60,0  "/>
+  </g>
+  <text stroke="#000" transform="matrix(35.62295150756836,0,0,1.2536805868148804,-2925.6394023895264,-3.0203844867646694) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_4" y="34" x="84.5" stroke-width="0" fill="#000000"/>
+  <text style="cursor: move;" stroke="#000" transform="matrix(1.7181808948516846,0,0,1.7181808948516846,-54.222657561302185,-5.027266263961792) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_5" y="29" x="76" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">Kotlin Libraries</text>
+ </g>
+</svg>
